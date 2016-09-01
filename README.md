@@ -12,4 +12,4 @@ Liste des présentations diffusées lors des sessions Orleans Tech Talks
 * [**#11**](http://toilal.github.io/talk-python3-hug) - Réaliser une API avec Python 3 et [HUG](https://github.com/timothycrosley/hug) par [Rémi Alvergnat](http://www.pragmasphere.com).
 * [**#12**](https://github.com/orleans-tech/talks/raw/master/12_programmation-fonctionnelle-ocaml_Stephane-Legrand.pdf) - La programmation fonctionnelle avec le langage OCaml par [Stéphane Legrand](https://stephanelegrand.wordpress.com/).
 * [**#12**](https://github.com/orleans-tech/talks/raw/master/12_Le-SMTP-demystifie_Anthony-Brodard.pdf) - Le SMTP démystifié par [Anthony Brodard](https://twitter.com/nawadanp).
-*
+* [**#16**](https://github.com/orleans-tech/talks/raw/master/16_Impression_3D_et_objets_connectes_Maxime_Jullien_Baptiste_Meftahi.pptx) - Impression 3D & Réaliser un objet connecté pour moins de 15€ par [Maxime Jullien](https://twitter.com/MaximeJ09) & [Baptiste Meftahi](https://twitter.com/baptme).
