@@ -10,3 +10,6 @@ Liste des présentations diffusées lors des sessions Orleans Tech Talks
 * [**#06**](https://github.com/orleans-tech/talks/raw/master/06_Decouverte-de-react-native_Stan-Chollet.pptx) - Découverte de React-Native par [Stan Chollet](http://stanislaschollet.com)
 * [**#10**](https://github.com/orleans-tech/talks/raw/master/10_introduction-react-js_Stan-Chollet.pptx) - Introduction à React.JS par [Stan Chollet](http://stanislaschollet.com) - Pour en savoir plus sur le code présenté, [voir le code d'exemple](https://github.com/orleans-tech/talks-code/tree/master/10-introduction-react-js).
 * [**#11**](http://toilal.github.io/talk-python3-hug) - Réaliser une API avec Python 3 et [HUG](https://github.com/timothycrosley/hug) par [Rémi Alvergnat](http://www.pragmasphere.com).
+* [**#12**](https://github.com/orleans-tech/talks/raw/master/12_programmation-fonctionnelle-ocaml_Stephane-Legrand.pdf) - La programmation fonctionnelle avec le langage OCaml par [Stéphane Legrand](https://stephanelegrand.wordpress.com/).
+* [**#12**](https://github.com/orleans-tech/talks/raw/master/12_Le-SMTP-demystifie_Anthony-Brodard.pdf) - Le SMTP démystifié par [Anthony Brodard](https://twitter.com/nawadanp).
+*
