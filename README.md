@@ -13,3 +13,4 @@ Liste des présentations diffusées lors des sessions Orleans Tech Talks
 * [**#12**](https://github.com/orleans-tech/talks/raw/master/12_programmation-fonctionnelle-ocaml_Stephane-Legrand.pdf) - La programmation fonctionnelle avec le langage OCaml par [Stéphane Legrand](https://stephanelegrand.wordpress.com/).
 * [**#12**](https://github.com/orleans-tech/talks/raw/master/12_Le-SMTP-demystifie_Anthony-Brodard.pdf) - Le SMTP démystifié par [Anthony Brodard](https://twitter.com/nawadanp).
 * [**#16**](https://github.com/orleans-tech/talks/raw/master/16_Impression_3D_et_objets_connectes_Maxime_Jullien_Baptiste_Meftahi.pptx) - Impression 3D & Réaliser un objet connecté pour moins de 15€ par [Maxime Jullien](https://twitter.com/MaximeJ09) & [Baptiste Meftahi](https://twitter.com/baptme).
+* [**#18**](https://github.com/orleans-tech/talks/raw/master/18_Retour-d-experience-symfony2-3.pptx) - Retour d'expérience Symfony2-3 par [Francis Hilaire](https://github.com/prometee).
